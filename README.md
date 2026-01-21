@@ -1,1 +1,3 @@
 # GPI-ex1
+
+Soy Andrés Gerardo Rendón (20212722), recientemente ingrese a trabajar en una consultora (apenas tengo dos días de experiencia profesional). Voy en primer semestre formal de la maestría, me dejaron adelantar algunos cursos en el pregrado. Me gusta el tema de consultoria porque siento que es un trabajo donde estoy en constante aprendizaje de muchísimos temas diferentes. Inscribí este curso porque quiero seguir aprendiendo sobre el tema de manejo de datos y siento que soy muy desorganizado a la hora de modelar o de organizar mis repositorios. Tengo bastantes expectativas y estoy emocionado por aprender.
